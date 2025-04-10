@@ -107,7 +107,9 @@ li.completed span.task-text {
     cursor: pointer;
 }
 
-/* ...existing styles... */
+#task-date{
+    font-size: 1.15em;
+}
 
 .actions {
     display: flex;
